@@ -11,3 +11,4 @@ https://www.php.net/releases/8.1/ja.php
 - [引数を展開した後の名前付き引数](src/new-features/named-arg-after-unpack.php)
 - [列挙型(Enum)](src/new-features/enum.php)
 - [ファイバー(Fibers)](src/new-features/fibers.php)
+- [第一級callableを生成する記法](src/new-features/first-class-callable-syntax.php)
