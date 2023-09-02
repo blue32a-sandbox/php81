@@ -13,3 +13,4 @@ https://www.php.net/releases/8.1/ja.php
 - [ファイバー(Fibers)](src/new-features/fibers.php)
 - [第一級callableを生成する記法](src/new-features/first-class-callable-syntax.php)
 - [交差型](src/new-features/intersection-types.php)
+- [Never型](src/new-features/never-type.php)
