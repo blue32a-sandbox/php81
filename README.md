@@ -12,3 +12,4 @@ https://www.php.net/releases/8.1/ja.php
 - [列挙型(Enum)](src/new-features/enum.php)
 - [ファイバー(Fibers)](src/new-features/fibers.php)
 - [第一級callableを生成する記法](src/new-features/first-class-callable-syntax.php)
+- [交差型](src/new-features/intersection-types.php)
