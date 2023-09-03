@@ -17,3 +17,7 @@ https://www.php.net/releases/8.1/ja.php
 - [初期化時のnew式の許可](src/new-features/new-in-initializer.php)
 - [読み取り専用プロパティ](src/new-features/readonly-properties.php)
 - [クラス定数のfinal指定](src/new-features/final-constants.php)
+
+## 新しく追加された関数
+
+- [array_is_list](src/new-functions/array-is-list.php)
