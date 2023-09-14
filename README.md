@@ -27,3 +27,4 @@ https://www.php.net/releases/8.1/ja.php
 ### 標準ライブラリ
 
 - [fsync](src/new-functions/standard/fsync.php)
+- [fdatasync](src/new-functions/standard/fdatasync.php)
