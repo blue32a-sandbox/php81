@@ -20,4 +20,10 @@ https://www.php.net/releases/8.1/ja.php
 
 ## 新しく追加された関数
 
-- [array_is_list](src/new-functions/array-is-list.php)
+### コア
+
+- [array_is_list](src/new-functions/core/array-is-list.php)
+
+### 標準ライブラリ
+
+- [fsync](src/new-functions/standard/fsync.php)
